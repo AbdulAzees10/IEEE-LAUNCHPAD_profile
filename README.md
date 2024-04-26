@@ -8,7 +8,7 @@
 
 | Name                | Description                                                               | Certificate Link                              | 
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|
-| **freecodecamp Responsive web design**        |  Lean  about HTML, CSS, little about JavaScript                                  | [Link](https://www.freecodecamp.org/certification/abdul_azees_m1/responsive-web-design) |
+| **freecodecamp Responsive web design**        |  Learn  about HTML, CSS, little about JavaScript                                  | [Link](https://www.freecodecamp.org/certification/abdul_azees_m1/responsive-web-design) |
 #### Career Plan:
 
 - In the immediate term, I plan to mentor junior developers and organize workshops to foster tech talent in Kerala.
